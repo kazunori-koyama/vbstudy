@@ -7,8 +7,7 @@
         Dim entities As New vbtestEntities
         Dim record As New m_code
 
-        '//entities.Configuration.,
-
+        ' レコード追加
         record.code_bunrui = "新規分類"
         record.code_value = "1"
         record.code_text = "分類1"
