@@ -1,0 +1,36 @@
+﻿//
+// handsontableのメモ
+//
+
+// セルのプロパティ類の取得（文字色やセル背景色等）
+function getCellstyle(hot){
+    var rows = hot.countRows();  //行数
+    var cols = hot.countCols();  //列数
+    var i=0;  //セル取得用
+    var cellHeight; //行高
+    var cellWidth; //列幅
+    var styleColor; //文字色
+    var bgColor; //背景色
+    var value;  //該当セルのデータ用
+    //コメント
+    var comment; 
+    var commentsPlugin = hot.getPlugin('comments');
+ 
+    //プロパティ情報取得（背景色やセルサイズ等）
+    for (var row = 0; row < rows - 1; row++) {
+        for (var col = 0; col < cols; col++) {
+            cellHeight=hot.getRowHeight(row); //高さ
+            cellWidth = hot.getColWidth(col); //幅
+            styleColor=$("td").eq(i).css("color"); //文字色
+            bgColor=$("td").eq(i).css("backgroundColor"); //背景色
+            value = hot.getDataAtCell(row,col);  //データ
+            comment = commentsPlugin.getCommentAtCell(row, col); //コメント(未実装の模様)
+            //DEBUG
+            console.log("This:R="+ row + ",C=" + col);
+            console.log("Height:"+ cellHeight + ",Width:" + cellWidth);
+            console.log("FC:" + i +";"+styleColor +",BG:" + i +";"+bgColor);
+            console.log("Value:"+value + ",Com:"+comment);
+            i=++i;
+        }
+    }
+}
