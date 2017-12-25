@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bookmark.xsl"?>
+
+<bookmark>
+
+<!--
+idとpassは参考情報です。
+自動入力されるとかは今のところありません。
+-->
+
+
+<group name="未分類">
+<category name="共通">
+<item>
+  <title>■サイボウズLive</title>
+  <path>https://cybozulive.com/</path>
+  <id>Kazunori_Koyama@busnet.co.jp</id>
+  <pass>koyama00</pass>
+</item>
+
+<item>
+  <title>■DropBox</title>
+  <path></path>
+  <id>koyama@harmony-plus.co.jp</id>
+  <pass>koyama00</pass>
+</item>
+
+<item>
+  <title>■GitHub(ユーザ：kazunori-koyama)</title>
+  <path>https://github.com/gspita/pitattodemo/subscription</path>
+  <id>Kazunori_Koyama@busnet.co.jp</id>
+  <pass>koyama00</pass>
+</item>
+
+<item>
+  <title>■ハーモニープラス</title>
+  <path>koyama@harmony-plus.co.jp</path>
+  <id>koyama@harmony-plus.co.jp</id>
+  <pass>koyama00</pass>
+</item>
+
+
+<item>
+  <title>■個人ディレクトリ</title>
+  <path>\\fileserver01\d\10_事業推進\98_user\小山</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>■勤務票(自社用)</title>
+  <path>C:\work\勤務票</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>■作業報告書(To BNC)</title>
+  <path>\\fileserver01\d\30_IT共通\【☆新☆作業報告書】\2016年度</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>■NTTのルーター</title>
+  <path>http://192.168.1.1/index.cgi/index_contents</path>
+  <id>user</id>
+  <pass>user</pass>
+</item>
+
+</category>
+
+
+<category name="技術情報">
+<item>
+  <title>bootstrap</title>
+  <path>http://getbootstrap.com/css/</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>spring MVC</title>
+  <path>https://sites.google.com/site/soracane/home/springnitsuite/spring-mvc</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>SpringBoot(公式)</title>
+  <path>http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>SpringBoot(設定ファイル)</title>
+  <path>http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>SpringBoot(with Thymeleaf)</title>
+  <path>http://qiita.com/uzresk/items/31a4585f7828c4a9334f</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>SpringBoot(bean定義ファイル)</title>
+  <path>http://qiita.com/ksby/items/2ea40c5455c31870bd7c</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>Thymeleaf 入力フォーム</title>
+  <path>http://qiita.com/rubytomato@github/items/387d46ea34eb92071065</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>SPRING 入力チェック</title>
+  <path>http://ziqoo.com/wiki/index.php?Spring%20Boot%20%C6%FE%CE%CF%A5%C1%A5%A7%A5%C3%A5%AF</path>
+  <id></id><pass></pass>
+</item>
+
+<item>
+  <title>SPRING 入力チェック</title>
+  <path>https://terasolunaorg.github.io/guideline/public_review/ArchitectureInDetail/Validation.html#id6</path>
+  <id></id><pass></pass>
+</item>
+
+
+
+<item>
+  <title>SPRING メッセージ</title>
+  <path>https://github.com/hibernate/hibernate-validator/blob/master/engine/src/main/resources/org/hibernate/validator/ValidationMessages.properties</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+
+
+</category>
+
+<category name="tools">
+<item>
+  <title>時間計算</title>
+  <path>http://keisan.casio.jp/exec/system/1187770089</path>
+  <id></id>
+  <pass></pass>
+</item>
+</category>
+</group>
+
+<group name="ピタ">
+<category name="共通">
+<item>
+  <title>共有ディレクトリ</title>
+  <path>\\fileserver01\d\10_事業推進\02_プロダクトサービス</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>学生ピタ！プロダクト開発基準</title>
+  <path>\\fileserver01\d\10_事業推進\02_プロダクトサービス\00_学生ピタ！プロダクト\開発基準</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>Redmine(ベーシック認証：bnc/wu10K2et)</title>
+  <path>https://redmine.pita.services/</path>
+  <id>kkoyama</id>
+  <pass>koyama00</pass>
+</item>                          
+
+
+<item>
+  <title>【現在は未使用】jenkins</title>
+  <path>https://jenkins.pita.services/</path>
+  <id>kkoyama</id>
+  <pass>password</pass>
+</item>        
+
+
+<item>
+  <title>aws console</title>
+  <path>https://pita-services.signin.aws.amazon.com/console</path>
+  <id>kkoyama</id>
+  <pass>koyama00</pass>
+</item>
+
+<item>
+  <title>デモ環境</title>
+  <path>https://aogakudev01.pita.services/career_demo01/login</path>
+  <id></id>
+  <pass></pass>
+</item>
+</category>
+
+<category name="青学">
+
+
+<item>
+  <title>テーブル定義</title>
+  <path>\\fileserver01\D\10_事業推進\02_プロダクトサービス\02_青山学院大学\30_要件定義＆設計\10_共通定義\92_テーブル・ストレージ定義</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+                  
+<item>
+  <title>dev01</title>
+  <path>https://aogakudev01.pita.services/career_dev01/login</path>
+  <id>bnc</id>
+  <pass>wu10K2et</pass>
+</item>
+
+<item>
+  <title>dev11</title>
+  <path>http://ec2-development/career_dev11/login</path>
+  <id>bnc</id>
+  <pass>wu10K2et</pass>
+</item>
+
+<item>
+  <title>dev11(アカウント申請)</title>
+  <path>http://ec2-development/account_dev11/</path>
+  <id>bnc</id>
+  <pass>wu10K2et</pass>
+</item>
+
+<item>
+  <title>dev13</title>
+  <path>https://aogakudev01.pita.services/career/login</path>
+  <id>bnc</id>
+  <pass>wu10K2et</pass>
+</item>
+
+<item>
+  <title>本番</title>
+  <path>https://aogaku.pita.services/career/login</path>
+  <id>systemX</id>
+  <pass>20160628</pass>
+</item>
+
+
+
+<item>
+  <title>【社内開発】tomcat manager</title>
+  <path>https://ec2-development/</path>
+  <id>tomcat</id>
+  <pass>Lh9ADV6Y</pass>
+</item>
+
+<item>
+  <title>【aws開発】tomcat manager</title>
+  <path>https://aogakudev01.pita.services/root</path>
+  <id>tomcat</id>
+  <pass>Lh9ADV6Y</pass>
+</item>
+      
+<item>
+  <title>【本番】tomcat manager</title>
+  <path>https://aogaku.pita.services/root</path>
+  <id>tomcat</id>
+  <pass>Lh9ADV6Y</pass>
+</item>
+
+<item>
+  <title>環境情報</title>
+  <path>\\fileserver01\d\10_事業推進\02_プロダクトサービス\02_青山学院大学\22_検証本番環境\環境資料群</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+
+</category>
+
+<category name="芝工">
+    <item>
+      <title>社内佐々木環境</title>
+      <path>http://sms178:8443/</path>
+      <id>systemX@adfstest.local</id>
+      <pass>P@ssw0rd</pass>
+    </item>
+
+    <item>
+      <title>社内開発環境</title>
+      <path>https://ec2-development/career_shibakou/</path>
+      <id>systemX@adfstest.local</id>
+      <pass>P@ssw0rd</pass>
+    </item>
+
+    <item>
+      <title>社内開発環境(ログイン画面)</title>
+      <path>https://ec2-development/career_shibakou/login</path>
+      <id>AA13089</id>
+      <pass>1</pass>
+    </item>
+
+    <item>
+      <title>社内開発環境(アカウント申請)</title>
+      <path>https://ec2-development/account_shibakou/</path>
+      <id></id>
+      <pass></pass>
+    </item>
+
+    <item>
+      <title>dev01(検証環境)</title>
+      <path>https://career.pita.services/shibakou_dev01/</path>
+      <id>systemX@adfstest.local</id>
+      <pass>P@ssw0rd</pass>
+    </item>
+
+    <item>
+      <title>dev01(検証環境：ログイン)</title>
+      <path>https://career.pita.services/shibakou_dev01/login</path>
+      <id>A-ENDO</id>
+      <pass>1</pass>
+    </item>
+
+    <item>
+      <title>dev01(検証環境：アカウント申請)</title>
+      <path>https://career.pita.services/account_shibakou_dev01/</path>
+      <id>A-ENDO</id>
+      <pass>1</pass>
+    </item>
+
+    <item>
+      <title>芝工：本番</title>
+      <path>https://shibaura.pita.services/career/</path>
+      <id>systemX@adfstest.local</id>
+      <pass>P@ssw0rd</pass>
+    </item>
+
+    <item>
+      <title>芝工：本番：ログイン</title>
+      <path>https://shibaura.pita.services/career/login</path>
+      <id>systemX</id>
+      <pass>20160628</pass>
+    </item>
+
+    <item>
+      <title>芝工：本番：アカウント申請</title>
+      <path>https://shibaura.pita.services/account/</path>
+      <id></id>
+      <pass></pass>
+    </item>
+
+    <item>
+      <title>【本番】tomcat manager</title>
+      <path>https://shibaura.pita.services/root</path>
+      <id>tomcat</id>
+      <pass>Lh9ADV6Y</pass>
+    </item>
+</category>
+
+
+<category name="聖心女子">
+    <item>
+      <title>社内開発環境</title>
+      <path>https://ec2-development/career_seishin/</path>
+      <id>systemX</id>
+      <pass>20160628</pass>
+    </item>
+
+    <item>
+      <title>社内開発環境_相談予約</title>
+      <path>https://ec2-development/career_seishin_soudan/</path>
+      <id>systemX</id>
+      <pass>20160628</pass>
+    </item>
+
+    <item>
+      <title>社内開発環境(アカウント申請)</title>
+      <path>https://ec2-development/account_seishin/</path>
+      <id></id>
+      <pass></pass>
+    </item>
+
+<!--
+    <item>
+      <title>dev01(検証環境)</title>
+      <path>https://career.pita.services/shibakou_dev01/</path>
+      <id>systemX@adfstest.local</id>
+      <pass>P@ssw0rd</pass>
+    </item>
+
+    <item>
+      <title>dev01(検証環境：ログイン)</title>
+      <path>https://career.pita.services/shibakou_dev01/login</path>
+      <id>A-ENDO</id>
+      <pass>1</pass>
+    </item>
+    <item>
+      <title>dev01(検証環境：アカウント申請)</title>
+      <path>https://career.pita.services/account_shibakou_dev01/</path>
+      <id>A-ENDO</id>
+      <pass>1</pass>
+    </item>
+-->
+
+    <item>
+      <title>聖心：本番</title>
+      <path>https://seishin.pita.services/career/</path>
+      <id>systemX</id>
+      <pass>20160628</pass>
+    </item>
+
+    <item>
+      <title>聖心：本番：アカウント申請</title>
+      <path>https://seishin.pita.services/account/</path>
+      <id></id>
+      <pass></pass>
+    </item>
+
+    <item>
+      <title>【本番】tomcat manager</title>
+      <path>https://seishin.pita.services/root</path>
+      <id>tomcat</id>
+      <pass>Lh9ADV6Y</pass>
+    </item>
+</category>
+
+
+<category name="杏林大学">
+          
+<item>
+  <title>資料</title>
+  <path>\\fileserver01\d\10_事業推進\02_プロダクトサービス\01_杏林大学\70_受領＆DL資料\50-GAKUEN連携データ\20150415-求人情報
+</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+</category>
+
+<category name="教職履修カルテ">
+<item>
+  <title>教育ITデモ、
+    学生ID/PW＝0099990001/19940101、職員ID/PW＝0099990099/19400101
+  </title>
+  <path>http://demo-0-pytha.azurewebsites.net/Account/Login?ReturnUrl=%2f</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+<item>
+  <title>杏林開発、学生ID/PW＝0626150002/19961011　職員ID/PW＝1992981/19620805
+</title>
+  <path>http://d26408edfedf42aaa8537f5b8c77e7fb.cloudapp.net/Account/Login?ReturnUrl=%2f
+</path>
+  <id></id>
+  <pass></pass>
+</item>
+
+</category>
+
+<category name="湘南(ポートフォリオ)">
+<item>
+  <title>【開発機】教職員：kagawa/1、学生　：16A1043/1</title>
+  <path>https://ec2-development/pitaportfolio/login</path>
+  <id>99001</id>
+  <pass></pass>
+</item>
+
+
+<item>
+  <title>aws 開発機(停止中)</title>
+  <path>https://dev02.sit.pita.services/</path>
+  <id>99001</id>
+  <pass>19630401</pass>
+</item>         
+
+<item>
+  <title>aws 開発機(停止中)<br/> TomcatManager</title>
+  <path>https://dev02.sit.pita.services/root</path>
+  <id>tomcat</id>
+  <pass>Lh9ADV6Y</pass>
+</item>         
+
+<item>
+  <title>【本番機】</title>
+  <path>https://sit.pita.services/</path>
+  <id>99001</id>
+  <pass>19630401</pass>
+</item>         
+
+<item>
+  <title>【本番機】 TomcatManager</title>
+  <path>https://sit.pita.services/root</path>
+  <id>tomcat</id>
+  <pass>Lh9ADV6Y</pass>
+</item>         
+
+</category>
+
+</group>
+
+
+</bookmark>
